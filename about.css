@@ -1,5 +1,5 @@
 *{
-    margin-top: 0;
+    margin: 0;
 }
 .flix{
     display: flex;
@@ -124,6 +124,183 @@
 }
 
 
+/* .......,,,,,/.......,,,, */
+.color-colors{
+    background-color:#B2D2EE;
+    height: 500px;
+    margin-top: 50px;
+}
+.centers1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 80px;
+    padding-top: 80px;
+}
+.flix-divs{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 180px;
+
+}
+.gap100{
+    margin-left:430px ;
+
+}
+.flix-div{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+
+}
+
+/* ............ */
+.lafts{
+    margin-left: 320px;
+}
+.lafts1{
+    margin-left: 337px;
+}
+.lafts2{
+    margin-left: 275px;
+}
+.lafts2s{
+    margin-left: 275px;
+}
+.lafts2sa{
+    margin-left: 235px;
+}
+.lafts2sd{
+    margin-left: 254px;
+
+}
+.boders {
+    border: 2px solid rgb(30, 114, 216);
+    background-color: rgb(220, 229, 229);
+    color: #000000;
+    border-radius: 8px;
+    width: 400px;
+    padding: 10px;
+}
+.ro{
+    border: 2px solid rgb(26, 16, 172);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 2%;
+}
+.rol{
+    border-radius:0 5px 5px 0;
+    background-color: rgb(28, 75, 149);
+    padding: 5px;
+     border: 1px solid rgb(11, 11, 133);
+}
+/* ...... */
+.ro1{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 4%;
+}
+.rol1{
+    border-radius: 0 5px 5px 0;
+    background-color: rgb(28, 75, 149);
+    padding: 5px;
+     border: 2px solid  rgb(28, 75, 149);
+}
+/* ..... */
+.ro2{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 30%;
+}
+.rol2{
+    border-radius:0 5px 5px 0;
+    background-color:  rgb(28, 75, 149);
+    padding: 5px;
+    border: 2px solid rgb(28, 75, 149);
+}
+/* ...... */
+
+
+
+/* ...... */
+.ro2a{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 4%;
+}
+.rol2a{
+    border-radius: 0 5px 5px 0;
+    background-color: rgb(28, 75, 149);
+    padding: 5px;
+     border: 2px solid  rgb(28, 75, 149);
+}
+/* ..... */
+.ro2s{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 30%;
+}
+.rol2s{
+    border-radius:0 5px 5px 0;
+    background-color:  rgb(28, 75, 149);
+    padding: 5px;
+    border: 2px solid rgb(28, 75, 149);
+}
+/* ...... */
+.ro2d{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 50%;
+}
+.rol2d{
+    border-radius:0 5px 5px 0;
+    background-color:  rgb(28, 75, 149);
+    padding: 5px;
+    border: 2px solid rgb(28, 75, 149);
+}
+
+/* ....,,,,,,,/....................,,,, */
+
+.Social-Account{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 100px;
+
+}
+.higt{
+    height: 180px;
+    width: 400px;
+    border: 2px solid rgb(239, 235, 235);
+    background-color: aliceblue;
+    box-shadow: 12px;
+    border-radius: 10px;
+
+}
+.laftes{
+    margin-top: 20px;
+    margin-left: 90px;
+    color: rgb(19, 99, 99);
+}
+.higts1{
+    margin-top: 10px;
+    display: flex;
+    margin-left: 90px;
+}
+.higts{
+    margin-top: 18px;
+    display: flex;
+    margin-left: 60px;
+}
+.img-emon1{
+     width: 350px;
+     border-radius: 12px;
+     box-shadow: 12px;
+}
 
 
 
