@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+}
+.flix{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#f6f6f6;
+}
+.smol{
+    margin-left: 30px;
+    width: 20%;
+}
+.flix-by,a{
+    color:black ;
+    margin-right: 30px;
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.flix-by,a:hover{
+       color: rgb(255, 42, 0);
+}
+/* hedar sas */
+.yop{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+  
+}
+.yops{
+    color:navy;
+}
+
+/* .............. */
+
+.shude{
+    height: 180px;
+    width: 300px;
+    border-radius: 15px;
+}
+.shud{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+/* <!-- futer suro --> */
+.color{
+    margin-top: 8%;
+    background-color: black;
+    color: white;
+}
+.colors{
+    color:red;
+    padding-top: 40px;
+}
+.center{
+    margin-left:450px;
+    font-size:30px ;
+}
+.centers{
+    margin-left:410px;
+    margin-top: 50px;
+}
+/* <!-- futer sas --> *
+
+
+
+
