@@ -23,33 +23,53 @@
        color: rgb(255, 42, 0);
 }
 /* hedar sas */
-.yop{
-    font-size: 40px;
-    text-align: center;
-    margin-top: 60px;
-  
-}
-.yops{
-    color:navy;
+
+.back-ind{
+    background-color:rgb(24, 24, 107);
+    height: 500px;
 }
 
-/* .............. */
-
-.shude{
-    height: 180px;
+.font-to{
+    padding-top: 50px;
+    font-size:40px ;
+    margin-left: 450px;
+    color: aliceblue;
+}
+.wq{
+     color: blue;
+}
+.font-me{
+    margin:10px;
+    border:2px solid rgb(255, 0, 251);
+    background-color:rgb(24, 24, 107) ;
+    color: #f6f6f6;
+    border-radius: 3px;
+    height:30px;
+    width:250px ;
+}
+.toons{
+    margin-left:300px ;
+}
+.ccddds{
+    margin-top: 30px;
+}
+.to-me{
+    background-color:rgb(24, 24, 107) ;
+    color: #f6f6f6;
+    margin-top: 30px;
+    border:2px solid rgb(255, 0, 234);
+    border-radius:3px;
+    height: 100px;
     width: 300px;
-    border-radius: 15px;
+    margin-left:450px ;
 }
-.shud{
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-    gap: 30px;
-}
+
+
+
+
 
 /* <!-- futer suro --> */
 .color{
-    margin-top: 8%;
     background-color: black;
     color: white;
 }
@@ -65,8 +85,4 @@
     margin-left:410px;
     margin-top: 50px;
 }
-/* <!-- futer sas --> *
-
-
-
 
