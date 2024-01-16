@@ -25,6 +25,7 @@
 /* hedar sas */
 
 
+/* .......................0000000000000000000000000........................ */
 .flix-top{
     display: flex;
     gap: 100px;
@@ -90,6 +91,7 @@ p{
     color: rgb(255, 255, 255);
 }
 /* ..................... */
+
 
 /* <!-- moon.......suro --> */
 
@@ -166,12 +168,398 @@ p{
 }
 
 /* <!-- moon.......sas --> */
+/* ....................0000000000000000000000......................... */
+
+
+/* ...............1111111111111111111111111111....................... */
+
+.Ab-section{
+    padding-top: 20px;
+    height: 750px;
+    background-color: rgb(230, 164, 11);
+}
+.About{
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+.span-color{
+    color: rgb(0, 21, 255);
+}
+.About-img{
+    position: relative;
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+    margin-left: 510px;
+    margin-top: 30px;
+}
+.About-centr{
+    text-align: center;
+    margin-top: 20px;
+}
+.buttonss{
+    margin-left: 450px;
+    margin-top: 35px;
+    padding: 10px 25px;
+    border-radius: 12px;
+    background-color: aqua;
+    color: rgb(159, 32, 32);
+    border-color: rgb(9, 162, 111);
+}  
+.buttonss:hover{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+}
+
+
+.display{
+    display: flex;
+    position: relative;
+    justify-content:center; 
+    gap:40px;
+}
+.display22{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.up{
+    color: red;
+    margin-right: 300px;
+}
+.up1{
+    color: red;
+    margin-right: 300px;
+    margin-left: 50px;
+}
+.box{
+    margin-top: 30px;
+    background-color: aqua;
+    border-radius: 8px;
+    height: 150px;
+    width: 450px;
+    border: 2px solid blue;
+}
+.days,i{
+    margin-top: 16px;
+    margin-left: 15px;
+}
+.days1{
+    margin-left: 15px;
+}
+
+.display1{
+    display: flex;
+}
+.click-pogition{
+    margin-top: 34px;
+}
+
+.click{
+    margin-right: 10px;
+    background-color: rgb(252, 0, 0);
+    height: 15px;
+    width: 15px;
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 50px;
+}
+.click1{
+    margin-left: 6.6px;
+    background-color: rgb(0, 0, 0);
+    height: 130px;
+    width: 1px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+
+/* .......,,,,,/.......,,,, */
+.color-colors{
+    background-color:#B2D2EE;
+    height: 500px;
+    margin-top: 50px;
+}
+.centers1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 80px;
+    padding-top: 80px;
+}
+.flix-divs{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 180px;
+
+}
+.gap100{
+    margin-left:430px ;
+
+}
+.flix-div{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+
+}
+
+/* ............ */
+.lafts{
+    margin-left: 320px;
+}
+.lafts1{
+    margin-left: 337px;
+}
+.lafts2{
+    margin-left: 275px;
+}
+.lafts2s{
+    margin-left: 275px;
+}
+.lafts2sa{
+    margin-left: 235px;
+}
+.lafts2sd{
+    margin-left: 254px;
+
+}
+.boders {
+    border: 2px solid rgb(30, 114, 216);
+    background-color: rgb(220, 229, 229);
+    color: #000000;
+    border-radius: 8px;
+    width: 400px;
+    padding: 10px;
+}
+.ro{
+    border: 2px solid rgb(26, 16, 172);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 2%;
+}
+.rol{
+    border-radius:0 5px 5px 0;
+    background-color: rgb(28, 75, 149);
+    padding: 5px;
+     border: 1px solid rgb(11, 11, 133);
+}
+/* ...... */
+.ro1{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 4%;
+}
+.rol1{
+    border-radius: 0 5px 5px 0;
+    background-color: rgb(28, 75, 149);
+    padding: 5px;
+     border: 2px solid  rgb(28, 75, 149);
+}
+/* ..... */
+.ro2{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 30%;
+}
+.rol2{
+    border-radius:0 5px 5px 0;
+    background-color:  rgb(28, 75, 149);
+    padding: 5px;
+    border: 2px solid rgb(28, 75, 149);
+}
+/* ...... */
+
+
+
+/* ...... */
+.ro2a{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 4%;
+}
+.rol2a{
+    border-radius: 0 5px 5px 0;
+    background-color: rgb(28, 75, 149);
+    padding: 5px;
+     border: 2px solid  rgb(28, 75, 149);
+}
+/* ..... */
+.ro2s{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 30%;
+}
+.rol2s{
+    border-radius:0 5px 5px 0;
+    background-color:  rgb(28, 75, 149);
+    padding: 5px;
+    border: 2px solid rgb(28, 75, 149);
+}
+/* ...... */
+.ro2d{
+    border: 2px solid rgb(28, 75, 149);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-right: 50%;
+}
+.rol2d{
+    border-radius:0 5px 5px 0;
+    background-color:  rgb(28, 75, 149);
+    padding: 5px;
+    border: 2px solid rgb(28, 75, 149);
+}
+
+/* ....,,,,,,,/....................,,,, */
+
+.Social-Account{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 100px;
+
+}
+.higt{
+    height: 180px;
+    width: 400px;
+    border: 2px solid rgb(239, 235, 235);
+    background-color: aliceblue;
+    box-shadow: 12px;
+    border-radius: 10px;
+
+}
+.laftes{
+    margin-top: 20px;
+    margin-left: 90px;
+    color: rgb(19, 99, 99);
+}
+.higts1{
+    margin-top: 10px;
+    display: flex;
+    margin-left: 90px;
+}
+.higts{
+    margin-top: 18px;
+    display: flex;
+    margin-left: 60px;
+}
+.img-emon1{
+     width: 350px;
+     border-radius: 12px;
+     box-shadow: 12px;
+}
+/* ..................1111111111111111111111111111........................ */
+
+
+/* .....................22222222222222222222222222222......................... */
+.top{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+    color:navy;
+}
+.fix{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+.tops{
+    height: 160px;
+    width: 29%;
+    border: 2px solid rgb(243, 101, 101);
+    border-radius: 12px;
+    background-color: aqua;
+    color: blue;
+}
+.code,i{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.code1{
+    color: red;
+    margin-left: 15px;
+}
+/* ........................222222222222222222222222222222........................ */
+
+
+/* ...........................333333333333333333333333333333.......................... */
+.yop{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+  
+}
+.yops{
+    color:navy;
+}
+
+/* .............. */
+
+.shude{
+    height: 180px;
+    width: 300px;
+    border-radius: 15px;
+}
+.shud{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 30px;
+}
+/* ...........................333333333333333333333333333333.......................... */
+
+
+/* ..........................4444444444444444444444444444444........................ */
+.back-ind{
+    background-color:rgb(24, 24, 107);
+    height: 500px;
+}
+
+.font-to{
+    padding-top: 50px;
+    font-size:40px ;
+    margin-left: 450px;
+    color: aliceblue;
+}
+.wq{
+     color: blue;
+}
+.font-me{
+    margin:10px;
+    border:2px solid rgb(255, 0, 251);
+    background-color:rgb(24, 24, 107) ;
+    color: #f6f6f6;
+    border-radius: 3px;
+    height:30px;
+    width:250px ;
+}
+.toons{
+    margin-left:300px ;
+}
+.ccddds{
+    margin-top: 30px;
+}
+.to-me{
+    background-color:rgb(24, 24, 107) ;
+    color: #f6f6f6;
+    margin-top: 30px;
+    border:2px solid rgb(255, 0, 234);
+    border-radius:3px;
+    height: 100px;
+    width: 300px;
+    margin-left:450px ;
+}
+/* ..........................4444444444444444444444444444444........................ */
 
 
 
 /* <!-- futer suro --> */
 .color{
-    margin-top: 20%;
+    /* margin-top: 20%; */
     background-color: black;
     color: white;
 }
@@ -188,6 +576,8 @@ p{
     margin-top: 50px;
 }
 /* <!-- futer sas --> */
+
+
 /* ........................... */
 @keyframes showRight{
     80%{
